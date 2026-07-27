@@ -1,0 +1,71 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,is_decisive
+1,2020,Jaipur,2020-03-25,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,normal,0,Delhi Capitals,0,9,Rohit Gaikwad,"Sawai Mansingh Stadium, Jaipur",Umpire 2,Umpire 9,True
+2,2020,Lucknow,2020-03-27,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,Umran Varma,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 7,Umpire 2,True
+3,2020,Bengaluru,2020-03-29,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Gujarat Titans,0,4,Axar Reddy,"M. Chinnaswamy Stadium, Bengaluru",Umpire 8,Umpire 6,True
+4,2020,Jaipur,2020-03-31,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,0,5,Devdutt Kohli,"Sawai Mansingh Stadium, Jaipur",Umpire 2,Umpire 1,True
+5,2020,Bengaluru,2020-04-02,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,25,0,Kuldeep Thakur,"M. Chinnaswamy Stadium, Bengaluru",Umpire 3,Umpire 8,True
+6,2020,Jaipur,2020-04-04,Gujarat Titans,Punjab Kings,Punjab Kings,field,normal,0,Gujarat Titans,1,0,Avesh Sundar,"Sawai Mansingh Stadium, Jaipur",Umpire 7,Umpire 11,True
+7,2020,Ahmedabad,2020-04-06,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,Rohit Kohli,"Narendra Modi Stadium, Ahmedabad",Umpire 9,Umpire 7,True
+8,2020,Bengaluru,2020-04-08,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,bat,normal,0,Lucknow Super Giants,15,0,Rohit Kishan,"M. Chinnaswamy Stadium, Bengaluru",Umpire 12,Umpire 5,True
+9,2020,Delhi,2020-04-10,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad,0,7,Umran Patel,"Arun Jaitley Stadium, Delhi",Umpire 2,Umpire 8,True
+10,2020,Kolkata,2020-04-12,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,normal,0,Chennai Super Kings,9,0,Rohit Kohli,"Eden Gardens, Kolkata",Umpire 2,Umpire 2,True
+11,2020,Bengaluru,2020-04-14,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,normal,0,Kolkata Knight Riders,9,0,Tilak Jadeja,"M. Chinnaswamy Stadium, Bengaluru",Umpire 1,Umpire 6,True
+12,2020,Mohali,2020-04-16,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,22,0,Mohammed Sharma,"Punjab Cricket Association Stadium, Mohali",Umpire 8,Umpire 9,True
+13,2020,Lucknow,2020-04-18,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Kolkata Knight Riders,32,0,Tilak Pant,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 7,Umpire 12,True
+14,2020,Hyderabad,2020-04-20,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,Axar Kohli,"Rajiv Gandhi International Stadium, Hyderabad",Umpire 2,Umpire 5,True
+15,2021,Hyderabad,2021-03-25,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,field,normal,0,Kolkata Knight Riders,10,0,Kuldeep Pandya,"Rajiv Gandhi International Stadium, Hyderabad",Umpire 5,Umpire 8,True
+16,2021,Mohali,2021-03-27,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,normal,0,Punjab Kings,0,6,Yashasvi Sharma,"Punjab Cricket Association Stadium, Mohali",Umpire 9,Umpire 9,True
+17,2021,Hyderabad,2021-03-29,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,normal,0,Chennai Super Kings,1,0,Kuldeep Kumar,"Rajiv Gandhi International Stadium, Hyderabad",Umpire 3,Umpire 2,True
+18,2021,Lucknow,2021-03-31,Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,normal,0,Gujarat Titans,0,7,Prithvi Chahal,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 9,Umpire 2,True
+19,2021,Ahmedabad,2021-04-02,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,normal,0,Delhi Capitals,28,0,Shubman Sundar,"Narendra Modi Stadium, Ahmedabad",Umpire 6,Umpire 11,True
+20,2021,Jaipur,2021-04-04,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,normal,0,Mumbai Indians,4,0,Rohit Jaiswal,"Sawai Mansingh Stadium, Jaipur",Umpire 3,Umpire 3,True
+21,2021,Chennai,2021-04-06,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,4,Kuldeep Khan,"M. A. Chidambaram Stadium, Chennai",Umpire 11,Umpire 8,True
+22,2021,Chennai,2021-04-08,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,6,Washington Samson,"M. A. Chidambaram Stadium, Chennai",Umpire 2,Umpire 1,True
+23,2021,Bengaluru,2021-04-10,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,41,0,Shreyas Reddy,"M. Chinnaswamy Stadium, Bengaluru",Umpire 1,Umpire 11,True
+24,2021,Delhi,2021-04-12,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,4,Washington Samson,"Arun Jaitley Stadium, Delhi",Umpire 1,Umpire 11,True
+25,2021,Jaipur,2021-04-14,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,9,Hardik Gaikwad,"Sawai Mansingh Stadium, Jaipur",Umpire 6,Umpire 8,True
+26,2021,Mohali,2021-04-16,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,5,Prithvi Thakur,"Punjab Cricket Association Stadium, Mohali",Umpire 1,Umpire 12,True
+27,2021,Lucknow,2021-04-18,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,43,0,Arshdeep Malik,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 4,Umpire 8,True
+28,2021,Lucknow,2021-04-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Mumbai Indians,11,0,Tilak Chahal,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 6,Umpire 9,True
+29,2022,Delhi,2022-03-25,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,normal,0,Delhi Capitals,0,7,Jasprit Jaiswal,"Arun Jaitley Stadium, Delhi",Umpire 5,Umpire 8,True
+30,2022,Bengaluru,2022-03-27,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,Kuldeep Kohli,"M. Chinnaswamy Stadium, Bengaluru",Umpire 1,Umpire 2,True
+31,2022,Ahmedabad,2022-03-29,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,normal,0,Gujarat Titans,0,10,Prithvi Samson,"Narendra Modi Stadium, Ahmedabad",Umpire 2,Umpire 7,True
+32,2022,Lucknow,2022-03-31,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,bat,normal,0,Rajasthan Royals,0,9,Kuldeep Pandya,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 11,Umpire 2,True
+33,2022,Mumbai,2022-04-02,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,22,0,Jasprit Thakur,"Wankhede Stadium, Mumbai",Umpire 6,Umpire 3,True
+34,2022,Jaipur,2022-04-04,Punjab Kings,Gujarat Titans,Gujarat Titans,field,normal,0,Gujarat Titans,0,8,Arshdeep Sharma,"Sawai Mansingh Stadium, Jaipur",Umpire 3,Umpire 2,True
+35,2022,Kolkata,2022-04-06,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,normal,0,Lucknow Super Giants,5,0,Umran Reddy,"Eden Gardens, Kolkata",Umpire 1,Umpire 1,True
+36,2022,Jaipur,2022-04-08,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,Mohammed Varma,"Sawai Mansingh Stadium, Jaipur",Umpire 4,Umpire 1,True
+37,2022,Kolkata,2022-04-10,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Delhi Capitals,12,0,Hardik Patel,"Eden Gardens, Kolkata",Umpire 9,Umpire 8,True
+38,2022,Chennai,2022-04-12,Gujarat Titans,Rajasthan Royals,Gujarat Titans,bat,normal,0,Gujarat Titans,40,0,Avesh Tripathi,"M. A. Chidambaram Stadium, Chennai",Umpire 7,Umpire 6,True
+39,2022,Mumbai,2022-04-14,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,field,normal,0,Gujarat Titans,22,0,Jasprit Jaiswal,"Wankhede Stadium, Mumbai",Umpire 5,Umpire 4,True
+40,2022,Hyderabad,2022-04-16,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Chennai Super Kings,10,0,Nitish Chahal,"Rajiv Gandhi International Stadium, Hyderabad",Umpire 11,Umpire 11,True
+41,2022,Ahmedabad,2022-04-18,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,field,normal,0,Gujarat Titans,40,0,Umran Varma,"Narendra Modi Stadium, Ahmedabad",Umpire 10,Umpire 12,True
+42,2022,Ahmedabad,2022-04-20,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,field,normal,0,Kolkata Knight Riders,2,0,Devdutt Gaikwad,"Narendra Modi Stadium, Ahmedabad",Umpire 5,Umpire 3,True
+43,2023,Kolkata,2023-03-25,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders,0,7,Rishabh Iyer,"Eden Gardens, Kolkata",Umpire 11,Umpire 8,True
+44,2023,Lucknow,2023-03-27,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,bat,normal,0,Lucknow Super Giants,10,0,Yuzvendra Jaiswal,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 7,Umpire 7,True
+45,2023,Mumbai,2023-03-29,Gujarat Titans,Punjab Kings,Gujarat Titans,bat,normal,0,Gujarat Titans,5,0,Axar Jaiswal,"Wankhede Stadium, Mumbai",Umpire 11,Umpire 9,True
+46,2023,Bengaluru,2023-03-31,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,tie,0,Tie,0,0,Ishan Patel,"M. Chinnaswamy Stadium, Bengaluru",Umpire 6,Umpire 2,False
+47,2023,Delhi,2023-04-02,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,Kuldeep Kohli,"Arun Jaitley Stadium, Delhi",Umpire 3,Umpire 2,True
+48,2023,Delhi,2023-04-04,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,6,Rohit Kohli,"Arun Jaitley Stadium, Delhi",Umpire 6,Umpire 7,True
+49,2023,Jaipur,2023-04-06,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,4,0,Hardik Patel,"Sawai Mansingh Stadium, Jaipur",Umpire 2,Umpire 4,True
+50,2023,Mohali,2023-04-08,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,normal,0,Royal Challengers Bengaluru,9,0,Mohammed Iyer,"Punjab Cricket Association Stadium, Mohali",Umpire 6,Umpire 2,True
+51,2023,Chennai,2023-04-10,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Delhi Capitals,0,5,Rinku Yadav,"M. A. Chidambaram Stadium, Chennai",Umpire 4,Umpire 8,True
+52,2023,Ahmedabad,2023-04-12,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,8,Suryakumar Singh,"Narendra Modi Stadium, Ahmedabad",Umpire 3,Umpire 3,True
+53,2023,Mohali,2023-04-14,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,Arshdeep Singh,"Punjab Cricket Association Stadium, Mohali",Umpire 12,Umpire 11,True
+54,2023,Mumbai,2023-04-16,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,Nitish Iyer,"Wankhede Stadium, Mumbai",Umpire 7,Umpire 1,True
+55,2023,Bengaluru,2023-04-18,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,normal,0,Royal Challengers Bengaluru,0,7,Mohammed Chahal,"M. Chinnaswamy Stadium, Bengaluru",Umpire 6,Umpire 5,True
+56,2023,Mohali,2023-04-20,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,normal,0,Gujarat Titans,42,0,Rishabh Iyer,"Punjab Cricket Association Stadium, Mohali",Umpire 7,Umpire 11,True
+57,2024,Mumbai,2024-03-25,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,7,Yuzvendra Jadeja,"Wankhede Stadium, Mumbai",Umpire 10,Umpire 11,True
+58,2024,Jaipur,2024-03-27,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,normal,0,Royal Challengers Bengaluru,20,0,Jasprit Padikkal,"Sawai Mansingh Stadium, Jaipur",Umpire 4,Umpire 8,True
+59,2024,Kolkata,2024-03-29,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,42,0,Rinku Chahar,"Eden Gardens, Kolkata",Umpire 3,Umpire 9,True
+60,2024,Mohali,2024-03-31,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,39,0,Hardik Yadav,"Punjab Cricket Association Stadium, Mohali",Umpire 12,Umpire 10,True
+61,2024,Ahmedabad,2024-04-02,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,normal,0,Punjab Kings,5,0,Kuldeep Khan,"Narendra Modi Stadium, Ahmedabad",Umpire 3,Umpire 4,True
+62,2024,Hyderabad,2024-04-04,Gujarat Titans,Mumbai Indians,Gujarat Titans,field,normal,0,Mumbai Indians,29,0,Nitish Samson,"Rajiv Gandhi International Stadium, Hyderabad",Umpire 2,Umpire 4,True
+63,2024,Hyderabad,2024-04-06,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Gujarat Titans,0,8,Virat Varma,"Rajiv Gandhi International Stadium, Hyderabad",Umpire 4,Umpire 3,True
+64,2024,Bengaluru,2024-04-08,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,bat,tie,0,Tie,0,0,Sanju Patel,"M. Chinnaswamy Stadium, Bengaluru",Umpire 2,Umpire 8,False
+65,2024,Chennai,2024-04-10,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,normal,0,Royal Challengers Bengaluru,0,6,Jasprit Jaiswal,"M. A. Chidambaram Stadium, Chennai",Umpire 1,Umpire 10,True
+66,2024,Delhi,2024-04-12,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,Shardul Kumar,"Arun Jaitley Stadium, Delhi",Umpire 2,Umpire 4,True
+67,2024,Lucknow,2024-04-14,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,14,0,Suryakumar Rahul,"BRSABV Ekana Cricket Stadium, Lucknow",Umpire 1,Umpire 3,True
+68,2024,Chennai,2024-04-16,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,normal,0,Lucknow Super Giants,0,7,Rohit Jaiswal,"M. A. Chidambaram Stadium, Chennai",Umpire 11,Umpire 10,True
+69,2024,Bengaluru,2024-04-18,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,normal,0,Chennai Super Kings,0,7,KL Iyer,"M. Chinnaswamy Stadium, Bengaluru",Umpire 5,Umpire 1,True
+70,2024,Chennai,2024-04-20,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,0,Delhi Capitals,8,0,Yuzvendra Chahal,"M. A. Chidambaram Stadium, Chennai",Umpire 1,Umpire 6,True
