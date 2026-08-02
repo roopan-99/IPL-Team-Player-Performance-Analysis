@@ -25,34 +25,54 @@ IPL-Analysis/
 ├── powerbi/
 │   └── PowerBI_Setup_Guide.md   # step-by-step guide + DAX measures used to build the dashboard
 │
-├── screenshots/                 # Power BI dashboard screenshots (see below)
+├── screenshots/                 # Power BI dashboard screenshots (embedded below)
 │
 └── README.md
 ```
 
 ## 📊 Power BI Dashboard
 
-4-page interactive dashboard built in Power BI Desktop on top of the cleaned CSVs.
+A 4-page interactive dashboard built in Power BI Desktop on top of the cleaned CSVs.
 
 ### Page 1 — IPL Overview Dashboard
-Total matches, total runs, matches won by team, top 10 batsmen by runs.
+The landing page. Three summary cards at the top (Total Matches, Total Runs,
+Total Batsman Runs) give a quick pulse of the tournament, followed by two
+charts: **Matches won by Team** (who's dominating overall) and
+**Top 10 Batsman by Runs** (leading run-scorers across all seasons).
 
-![IPL Overview Dashboard](screenshots/dashboard_1_overview.jpg)
+![IPL Overview Dashboard](screenshots/dashboard_1_overview.png)
 
 ### Page 2 — Player Performance Dashboard
-Dismissal type breakdown, extras by team, top 10 batsmen, runs-by-over trend.
+Digs deeper into how players get out and score. **Dismissal Types** (donut)
+shows catches are the most common dismissal (~48.5%), followed by bowled
+and run out. **Extras by Team** compares wides vs no-balls conceded per
+team. **Top 10 Batsmen** ranks scorers, and **Runs by Over** shows scoring
+trend across the 20 overs of an innings — typically higher in the first
+over (powerplay) and dipping mid-innings.
 
-![Player Performance Dashboard](screenshots/dashboard_2_player_performance.jpg)
+![Player Performance Dashboard](screenshots/dashboard_2_player_performance.png)
 
 ### Page 3 — Venue & Toss Insights
-Match venues on map, toss decision split, matches by toss winner, runs by venue.
+**IPL Match Venues** map plots every stadium used, with mini pie charts per
+city. **Toss Decision** shows teams choose to field first (~59.6%) more
+often than bat first (~40.4%) — chasing is generally favored in T20.
+**Matches by Toss Winner** and **Runs by Venue** round out venue-level
+scoring patterns (e.g. M. Chinnaswamy Stadium trends highest-scoring).
 
-![Venue & Toss Insights](screenshots/dashboard_3_venue_toss.jpg)
+![Venue & Toss Insights](screenshots/dashboard_3_venue_toss.png)
 
 ### Page 4 — Team Winning Analysis Dashboard
-Matches won by team, winning margin (runs vs wickets), average win margin, win share by team.
+The team-performance summary. **Matches won by Team** and **Win Share by
+Team** (donut) show Kolkata Knight Riders and Gujarat Titans leading
+(17.2% and 15.9% of all wins respectively). **Winning Margin by Team**
+splits wins by runs (defending) vs wickets (chasing), and **Average Win by
+Team** shows the typical victory margin for each side.
 
-![Team Winning Analysis Dashboard](screenshots/dashboard_4_team_winning.jpg)
+![Team Winning Analysis Dashboard](screenshots/dashboard_4_team_winning.png)
+
+> **Note:** the "Total Runes" / "Total Batsman Runes" card titles on Page 1
+> are a small typo (should read "Runs") — cosmetic only, doesn't affect the
+> underlying data or calculations.
 
 ## ⚠️ About the dataset
 This repo ships with a **synthetically generated** dataset (`generate_sample_data.py`)
@@ -91,11 +111,12 @@ For Power BI: follow `powerbi/PowerBI_Setup_Guide.md` for the data model,
 DAX measures, and page-by-page visual layout used to build the dashboard above.
 
 ## 📌 Key insights
-- **Most wins:** Kolkata Knight Riders, Gujarat Titans lead the standings
-- **Toss impact:** toss winner elects to field ~60% of the time
-- **Win margins:** top teams win more often by wickets (chasing) than by defending
+- **Most wins:** Kolkata Knight Riders (17.2% win share), Gujarat Titans (15.9%) lead the standings
+- **Toss impact:** teams elect to field first ~60% of the time after winning the toss
+- **Win margins:** top teams win more often by wickets (chasing) than by defending totals
 - **Venues:** M. Chinnaswamy Stadium and Sawai Mansingh Stadium are the highest-scoring grounds
-- **Dismissals:** catches account for ~48% of all wickets, the most common mode
+- **Dismissals:** catches account for ~48.5% of all wickets, by far the most common mode
+- **Scoring trend:** runs per over generally decline across the innings after an early peak
 
 ## 🛠 Tech stack
 Python (pandas, numpy, matplotlib) · SQL · Power BI
