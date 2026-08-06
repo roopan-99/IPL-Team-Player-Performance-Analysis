@@ -59,7 +59,7 @@ often than bat first (~40.4%) — chasing is generally favored in T20.
 **Matches by Toss Winner** and **Runs by Venue** round out venue-level
 scoring patterns (e.g. M. Chinnaswamy Stadium trends highest-scoring).
 
-![Venue & Toss Insights](screenshots/dashboard_3_venue_toss.png)
+![Venue & Toss Insights](https://github.com/roopan-99/IPL-Team-Player-Performance-Analysis/blob/2843500dc62297125f006f997c5addfd6154ebed/screenshorts/Screenshot%202026-08-02%20202729.png)
 
 ### Page 4 — Team Winning Analysis Dashboard
 The team-performance summary. **Matches won by Team** and **Win Share by
