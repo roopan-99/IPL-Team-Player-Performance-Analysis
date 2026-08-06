@@ -68,7 +68,7 @@ Team** (donut) show Kolkata Knight Riders and Gujarat Titans leading
 splits wins by runs (defending) vs wickets (chasing), and **Average Win by
 Team** shows the typical victory margin for each side.
 
-![Team Winning Analysis Dashboard](screenshots/dashboard_4_team_winning.png)
+![Team Winning Analysis Dashboard](https://github.com/roopan-99/IPL-Team-Player-Performance-Analysis/blob/833ac0a375875d7ac20d8babb105fa750eaf8f7f/screenshorts/Screenshot%202026-08-02%20202800.png)
 
 > **Note:** the "Total Runes" / "Total Batsman Runes" card titles on Page 1
 > are a small typo (should read "Runs") — cosmetic only, doesn't affect the
