@@ -34,42 +34,37 @@ IPL-Analysis/
 
 A 4-page interactive dashboard built in Power BI Desktop on top of the cleaned CSVs.
 
-### Page 1 — IPL Overview Dashboard
-The landing page. Three summary cards at the top (Total Matches, Total Runs,
-Total Batsman Runs) give a quick pulse of the tournament, followed by two
-charts: **Matches won by Team** (who's dominating overall) and
-**Top 10 Batsman by Runs** (leading run-scorers across all seasons).
+## 📊 Power BI Dashboard
 
-![IPL Overview Dashboard](screenshots/dashboard_1_overview.png)
+### Page 1 — IPL Overview Dashboard
+
+Displays key KPIs including Total Matches, Total Runs, Total Batsman Runs, Matches Won by Team, and Top 10 Batsmen by Runs.
+
+![IPL Overview Dashboard](screenshots/Screenshot%202026-08-02%20202452.png)
+
+---
 
 ### Page 2 — Player Performance Dashboard
-Digs deeper into how players get out and score. **Dismissal Types** (donut)
-shows catches are the most common dismissal (~48.5%), followed by bowled
-and run out. **Extras by Team** compares wides vs no-balls conceded per
-team. **Top 10 Batsmen** ranks scorers, and **Runs by Over** shows scoring
-trend across the 20 overs of an innings — typically higher in the first
-over (powerplay) and dipping mid-innings.
 
-![Player Performance Dashboard](screenshots/dashboard_2_player_performance.png)
+Shows Dismissal Types, Extras by Team, Top 10 Batsmen, and Runs by Over.
+
+![Player Performance Dashboard](screenshots/Screenshot%202026-08-02%20202638.png)
+
+---
 
 ### Page 3 — Venue & Toss Insights
-**IPL Match Venues** map plots every stadium used, with mini pie charts per
-city. **Toss Decision** shows teams choose to field first (~59.6%) more
-often than bat first (~40.4%) — chasing is generally favored in T20.
-**Matches by Toss Winner** and **Runs by Venue** round out venue-level
-scoring patterns (e.g. M. Chinnaswamy Stadium trends highest-scoring).
 
-![Venue & Toss Insights](screenshots/dashboard_3_venue_toss.png)
+Analyzes IPL Match Venues, Toss Decisions, Matches by Toss Winner, and Runs by Venue.
+
+![Venue & Toss Insights](screenshots/Screenshot%202026-08-02%20202729.png)
+
+---
 
 ### Page 4 — Team Winning Analysis Dashboard
-The team-performance summary. **Matches won by Team** and **Win Share by
-Team** (donut) show Kolkata Knight Riders and Gujarat Titans leading
-(17.2% and 15.9% of all wins respectively). **Winning Margin by Team**
-splits wins by runs (defending) vs wickets (chasing), and **Average Win by
-Team** shows the typical victory margin for each side.
 
-![Team Winning Analysis Dashboard](screenshots/dashboard_4_team_winning.png)
+Shows Matches Won by Team, Winning Margin by Team, Average Win by Team, and Win Share by Team.
 
+![Team Winning Analysis Dashboard](screenshots/Screenshot%202026-08-02%20202800.png)
 > **Note:** the "Total Runes" / "Total Batsman Runes" card titles on Page 1
 > are a small typo (should read "Runs") — cosmetic only, doesn't affect the
 > underlying data or calculations.
