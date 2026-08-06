@@ -40,7 +40,7 @@ Total Batsman Runs) give a quick pulse of the tournament, followed by two
 charts: **Matches won by Team** (who's dominating overall) and
 **Top 10 Batsman by Runs** (leading run-scorers across all seasons).
 
-![IPL Overview Dashboard](screenshots/dashboard_1_overview.png)
+![IPL Overview Dashboard](https://github.com/roopan-99/IPL-Team-Player-Performance-Analysis/blob/3a613741dff0d19c61fe34af7a6538fd6dd19f4e/screenshorts/Screenshot%202026-08-02%20202452.png)
 
 ### Page 2 — Player Performance Dashboard
 Digs deeper into how players get out and score. **Dismissal Types** (donut)
