@@ -50,7 +50,7 @@ team. **Top 10 Batsmen** ranks scorers, and **Runs by Over** shows scoring
 trend across the 20 overs of an innings — typically higher in the first
 over (powerplay) and dipping mid-innings.
 
-![Player Performance Dashboard](screenshots/dashboard_2_player_performance.png)
+![Player Performance Dashboard](https://github.com/roopan-99/IPL-Team-Player-Performance-Analysis/blob/9d66eaa89ec6c90b34d50d551b84e54228de4460/screenshorts/Screenshot%202026-08-02%20202638.png)
 
 ### Page 3 — Venue & Toss Insights
 **IPL Match Venues** map plots every stadium used, with mini pie charts per
