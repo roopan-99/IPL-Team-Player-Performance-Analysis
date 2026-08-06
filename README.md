@@ -29,42 +29,41 @@ IPL-Analysis/
 │
 └── README.md
 ```
-
 ## 📊 Power BI Dashboard
 
-A 4-page interactive dashboard built in Power BI Desktop on top of the cleaned CSVs.
-
-## 📊 Power BI Dashboard
-
-### Page 1 — IPL Overview Dashboard
-
-Displays key KPIs including Total Matches, Total Runs, Total Batsman Runs, Matches Won by Team, and Top 10 Batsmen by Runs.
-
-![IPL Overview Dashboard](screenshots/Screenshot%202026-08-02%20202452.png)
+A 4-page interactive dashboard built in Power BI Desktop.
 
 ---
 
-### Page 2 — Player Performance Dashboard
+## 📄 Page 1 — IPL Overview Dashboard
+
+Displays Total Matches, Total Runs, Total Batsman Runs, Matches Won by Team, and Top 10 Batsmen.
+
+<img src="screenshots/Screenshot%202026-08-02%20202452.png" alt="IPL Overview Dashboard" width="100%">
+
+---
+
+## 📄 Page 2 — Player Performance Dashboard
 
 Shows Dismissal Types, Extras by Team, Top 10 Batsmen, and Runs by Over.
 
-![Player Performance Dashboard](screenshots/Screenshot%202026-08-02%20202638.png)
+<img src="screenshots/Screenshot%202026-08-02%20202638.png" alt="Player Performance Dashboard" width="100%">
 
 ---
 
-### Page 3 — Venue & Toss Insights
+## 📄 Page 3 — Venue & Toss Insights
 
 Analyzes IPL Match Venues, Toss Decisions, Matches by Toss Winner, and Runs by Venue.
 
-![Venue & Toss Insights](screenshots/Screenshot%202026-08-02%20202729.png)
+<img src="screenshots/Screenshot%202026-08-02%20272729.png" alt="Venue & Toss Dashboard" width="100%">
 
 ---
 
-### Page 4 — Team Winning Analysis Dashboard
+## 📄 Page 4 — Team Winning Analysis Dashboard
 
 Shows Matches Won by Team, Winning Margin by Team, Average Win by Team, and Win Share by Team.
 
-![Team Winning Analysis Dashboard](screenshots/Screenshot%202026-08-02%20202800.png)
+<img src="screenshots/Screenshot%202026-08-02%20202800.png" alt="Team Winning Dashboard" width="100%">
 > **Note:** the "Total Runes" / "Total Batsman Runes" card titles on Page 1
 > are a small typo (should read "Runs") — cosmetic only, doesn't affect the
 > underlying data or calculations.
